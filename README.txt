@@ -3,3 +3,6 @@ Hello Git and Github
 Third change
 Forth change
 x
+
+
+THIS IS THE NEW FEATURE
